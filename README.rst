@@ -34,7 +34,10 @@ Dependencies
 
 This role is not dependent on any other roles.
 
-No other roles have direct dependency on this role.
+Following roles have direct dependency on this role:
+
+* :ref:`mentat <section-role-mentat>`
+* :ref:`mentat_dev <section-role-mentat-dev>`
 
 
 Managed files
